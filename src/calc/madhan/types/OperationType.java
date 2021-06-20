@@ -1,7 +1,7 @@
-package calc.madhan.operation;
+package calc.madhan.types;
 
 public enum OperationType {
-	ADD("Add"), SUB("Subtract"), MUL("Multiply"), DIV("Divide"), MOD("Modulus");
+	ADD("Add"), SUB("Subtract"), MUL("Multiply"), DIV("Divide"), MOD("Modulus"), MADH("Madh");
 
 	private String name;
 

@@ -1,9 +1,9 @@
-package calc.madhan;
+package calc.madhan.calculator;
 
 import java.util.List;
 
 import calc.madhan.operation.Operation;
-import calc.madhan.operation.OperationType;
+import calc.madhan.types.OperationType;
 
 public abstract class Calculator {
 
